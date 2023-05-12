@@ -21,6 +21,7 @@
     # user selected packages
     pkgs.helix
     pkgs.stack
+    pkgs.gcc
     # Fleek Bling
     pkgs.git
     pkgs.htop
