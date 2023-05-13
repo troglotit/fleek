@@ -15,12 +15,12 @@ packages:
     - helix
     - stack
     - gcc
+    - unzip
 paths:
     - $HOME/bin
     - $HOME/.local/bin
 programs:
     - dircolors
-    - unzip
 shell: bash
 systems:
     - arch: x86_64

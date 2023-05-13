@@ -22,6 +22,7 @@
     pkgs.helix
     pkgs.stack
     pkgs.gcc
+    pkgs.unzip
     # Fleek Bling
     pkgs.git
     pkgs.htop
