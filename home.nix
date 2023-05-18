@@ -23,6 +23,7 @@
     pkgs.stack
     pkgs.gcc
     pkgs.unzip
+    pkgs.ffmpeg
     # Fleek Bling
     pkgs.git
     pkgs.htop
