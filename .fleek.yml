@@ -16,6 +16,7 @@ packages:
     - stack
     - gcc
     - unzip
+    - ffmpeg
 paths:
     - $HOME/bin
     - $HOME/.local/bin
