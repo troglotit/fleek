@@ -20,7 +20,6 @@
   home.packages = [
     # user selected packages
     pkgs.helix
-    pkgs.edgedb
     pkgs.stack
     pkgs.gcc
     pkgs.unzip

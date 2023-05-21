@@ -13,7 +13,6 @@ name: Fleek Configuration
 overlays: {}
 packages:
     - helix
-    - edgedb
     - stack
     - gcc
     - unzip
