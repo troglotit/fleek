@@ -17,6 +17,7 @@ packages:
     - gcc
     - unzip
     - ffmpeg
+    - volta
 paths:
     - $HOME/bin
     - $HOME/.local/bin
