@@ -24,7 +24,6 @@
     pkgs.gcc
     pkgs.unzip
     pkgs.ffmpeg
-    pkgs.volta
     # Fleek Bling
     pkgs.git
     pkgs.htop

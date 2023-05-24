@@ -17,10 +17,10 @@ packages:
     - gcc
     - unzip
     - ffmpeg
-    - volta
 paths:
     - $HOME/bin
     - $HOME/.local/bin
+    - $HOME/.volta/bin
 programs:
     - dircolors
 shell: bash
