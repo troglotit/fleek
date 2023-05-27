@@ -23,7 +23,7 @@ paths:
     - $HOME/.volta/bin
 programs:
     - dircolors
-shell: zsh
+shell: bash
 systems:
     - arch: x86_64
       hostname: DESKTOP-C9O7JV2
