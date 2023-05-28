@@ -25,7 +25,7 @@ paths:
 programs:
     - dircolors
     - neovim
-shell: zsh
+shell: bash
 systems:
     - arch: x86_64
       hostname: DESKTOP-C9O7JV2
