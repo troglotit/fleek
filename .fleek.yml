@@ -1,6 +1,6 @@
 aliases:
     fleeks: cd ~/.local/share/fleek
-bling: high
+bling: default
 ejected: false
 flakedir: .local/share/fleek
 git:
@@ -23,6 +23,8 @@ paths:
     - $HOME/.volta/bin
 programs:
     - dircolors
+    - neovim
+    - neofetch
 shell: bash
 systems:
     - arch: x86_64
