@@ -18,6 +18,7 @@ packages:
     - unzip
     - ffmpeg
     - neofetch
+    - cargo
 paths:
     - $HOME/bin
     - $HOME/.local/bin
