@@ -10,7 +10,6 @@
 
   # User specified programs 
     programs.dircolors.enable = true; 
-    programs.neovim.enable = true; 
-    programs.neofetch.enable = true;
+    programs.neovim.enable = true;
 
 }

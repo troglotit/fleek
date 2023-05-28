@@ -24,6 +24,7 @@
     pkgs.gcc
     pkgs.unzip
     pkgs.ffmpeg
+    pkgs.neofetch
     # Fleek Bling
     pkgs.git
     pkgs.htop

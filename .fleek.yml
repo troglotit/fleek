@@ -17,6 +17,7 @@ packages:
     - gcc
     - unzip
     - ffmpeg
+    - neofetch
 paths:
     - $HOME/bin
     - $HOME/.local/bin
@@ -24,7 +25,6 @@ paths:
 programs:
     - dircolors
     - neovim
-    - neofetch
 shell: bash
 systems:
     - arch: x86_64
