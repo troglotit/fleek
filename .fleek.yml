@@ -26,6 +26,8 @@ programs:
     - dircolors
     - neovim
     - fzf
+    - exa
+    - bat
 shell: bash
 systems:
     - arch: x86_64
