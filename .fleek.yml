@@ -25,6 +25,7 @@ paths:
 programs:
     - dircolors
     - neovim
+    - fzf
 shell: bash
 systems:
     - arch: x86_64

@@ -10,6 +10,7 @@
 
   # User specified programs 
     programs.dircolors.enable = true; 
-    programs.neovim.enable = true;
+    programs.neovim.enable = true; 
+    programs.fzf.enable = true;
 
 }
