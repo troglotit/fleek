@@ -19,13 +19,13 @@ packages:
     - ffmpeg
     - neofetch
     - cargo
+    - neovim
 paths:
     - $HOME/bin
     - $HOME/.local/bin
     - $HOME/.volta/bin
 programs:
     - dircolors
-    - neovim
     - fzf
     - exa
     - bat
