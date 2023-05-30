@@ -27,6 +27,7 @@
     pkgs.neofetch
     pkgs.cargo
     pkgs.neovim
+    pkgs.volta
     # Fleek Bling
     pkgs.git
     pkgs.htop
