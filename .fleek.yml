@@ -33,6 +33,7 @@ programs:
     - fzf
     - exa
     - bat
+    - vifm
 shell: bash
 systems:
     - arch: x86_64

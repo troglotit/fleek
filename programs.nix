@@ -12,6 +12,7 @@
     programs.dircolors.enable = true; 
     programs.fzf.enable = true; 
     programs.exa.enable = true; 
-    programs.bat.enable = true;
+    programs.bat.enable = true; 
+    programs.vifm.enable = true;
 
 }
