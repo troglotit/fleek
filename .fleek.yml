@@ -34,7 +34,7 @@ programs:
     - fzf
     - exa
     - bat
-shell: fish
+shell: bash
 systems:
     - arch: x86_64
       hostname: DESKTOP-C9O7JV2
