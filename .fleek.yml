@@ -24,6 +24,7 @@ packages:
     - jq
     - yq
     - btop
+    - vifm
 paths:
     - $HOME/bin
     - $HOME/.local/bin
@@ -33,7 +34,6 @@ programs:
     - fzf
     - exa
     - bat
-    - vifm
 shell: bash
 systems:
     - arch: x86_64

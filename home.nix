@@ -31,6 +31,7 @@
     pkgs.jq
     pkgs.yq
     pkgs.btop
+    pkgs.vifm
     # Fleek Bling
     pkgs.git
     pkgs.htop
