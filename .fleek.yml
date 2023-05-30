@@ -20,7 +20,10 @@ packages:
     - neofetch
     - cargo
     - neovim
-    - volta
+    - lazygit
+    - jq
+    - yq
+    - btop
 paths:
     - $HOME/bin
     - $HOME/.local/bin
