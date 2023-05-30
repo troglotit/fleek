@@ -35,6 +35,10 @@ systems:
       hostname: DESKTOP-C9O7JV2
       os: linux
       username: troglotit
+    - arch: x86_64
+      hostname: ntrn1703
+      os: linux
+      username: aargunov
 unfree: true
 users:
     - email: sajkoooo@gmail.com
@@ -42,3 +46,8 @@ users:
       ssh_private_key_file: ""
       ssh_public_key_file: ""
       username: troglotit
+    - email: alexander.argunov@tern.ru
+      name: aargunov
+      ssh_private_key_file: ~/.ssh/id_ed25519
+      ssh_public_key_file: ~/.ssh/id_ed25519.pub
+      username: aargunov
