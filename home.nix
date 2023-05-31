@@ -35,7 +35,7 @@
     pkgs.ripgrep
     pkgs.emacs
     pkgs.gdu
-    pkgs.btm
+    pkgs.bottom
     # Fleek Bling
     pkgs.git
     pkgs.htop

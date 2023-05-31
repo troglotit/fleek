@@ -28,7 +28,7 @@ packages:
     - ripgrep
     - emacs
     - gdu
-    - btm
+    - bottom
 paths:
     - $HOME/bin
     - $HOME/.local/bin
