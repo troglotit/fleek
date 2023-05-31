@@ -33,6 +33,7 @@
     pkgs.btop
     pkgs.vifm
     pkgs.ripgrep
+    pkgs.emacs
     # Fleek Bling
     pkgs.git
     pkgs.htop
