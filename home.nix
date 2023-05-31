@@ -36,6 +36,7 @@
     pkgs.emacs
     pkgs.gdu
     pkgs.bottom
+    pkgs.tokei
     # Fleek Bling
     pkgs.git
     pkgs.htop

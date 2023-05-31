@@ -29,6 +29,7 @@ packages:
     - emacs
     - gdu
     - bottom
+    - tokei
 paths:
     - $HOME/bin
     - $HOME/.local/bin
