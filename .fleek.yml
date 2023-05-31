@@ -27,6 +27,8 @@ packages:
     - vifm
     - ripgrep
     - emacs
+    - gdu
+    - btm
 paths:
     - $HOME/bin
     - $HOME/.local/bin
