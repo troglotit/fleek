@@ -1,6 +1,6 @@
 aliases:
     fleeks: cd ~/.local/share/fleek
-bling: default
+bling: low
 ejected: false
 flakedir: .local/share/fleek
 git:
@@ -25,6 +25,7 @@ packages:
     - yq
     - btop
     - vifm
+    - ripgrep
 paths:
     - $HOME/bin
     - $HOME/.local/bin
@@ -34,6 +35,7 @@ programs:
     - fzf
     - exa
     - bat
+    - direnv
 shell: zsh
 systems:
     - arch: x86_64
