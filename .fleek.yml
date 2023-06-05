@@ -22,7 +22,6 @@ packages:
     - neovim
     - lazygit
     - jq
-    - yq
     - btop
     - vifm
     - ripgrep

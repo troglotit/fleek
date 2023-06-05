@@ -29,7 +29,6 @@
     pkgs.neovim
     pkgs.lazygit
     pkgs.jq
-    pkgs.yq
     pkgs.btop
     pkgs.vifm
     pkgs.ripgrep
