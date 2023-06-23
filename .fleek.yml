@@ -29,6 +29,7 @@ packages:
     - gdu
     - bottom
     - tokei
+    - exif
 paths:
     - $HOME/bin
     - $HOME/.local/bin

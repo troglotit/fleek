@@ -29,6 +29,7 @@
     pkgs.neovim
     pkgs.lazygit
     pkgs.jq
+    pkgs.yq
     pkgs.btop
     pkgs.vifm
     pkgs.ripgrep
@@ -36,6 +37,7 @@
     pkgs.gdu
     pkgs.bottom
     pkgs.tokei
+    pkgs.exif
     # Fleek Bling
     pkgs.git
     pkgs.htop
