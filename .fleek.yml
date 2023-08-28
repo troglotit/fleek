@@ -1,6 +1,9 @@
 aliases:
     fleeks: cd ~/.local/share/fleek
+allow_broken: false
 bling: low
+blocklist: []
+byo_git: false
 ejected: false
 flakedir: .local/share/fleek
 git:
@@ -30,6 +33,7 @@ packages:
     - bottom
     - tokei
     - exif
+    - gnumake
 paths:
     - $HOME/bin
     - $HOME/.local/bin
@@ -44,13 +48,16 @@ programs:
 shell: zsh
 systems:
     - arch: x86_64
+      home: ""
       hostname: DESKTOP-C9O7JV2
       os: linux
       username: troglotit
     - arch: x86_64
+      home: ""
       hostname: ntrn1703
       os: linux
       username: aargunov
+track: ""
 unfree: true
 users:
     - email: sajkoooo@gmail.com

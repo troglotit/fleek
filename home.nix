@@ -38,6 +38,7 @@
     pkgs.bottom
     pkgs.tokei
     pkgs.exif
+    pkgs.gnumake
     # Fleek Bling
     pkgs.git
     pkgs.htop
