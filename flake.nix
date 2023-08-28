@@ -35,14 +35,11 @@
           ./aliases.nix
           ./programs.nix
           # Host Specific configs
-          ./DESKTOP-C9O7JV2/DESKTOP-C9O7JV2.nix
-          ./DESKTOP-C9O7JV2/user.nix
+          ./DESKTOP-C9O7JV2/troglotit.nix
+          ./DESKTOP-C9O7JV2/custom.nix
           # self-manage fleek
           ({
            nixpkgs.overlays = [];
-           home.packages = [
-            fleek.packages.x86_64-linux.default
-          ];
           })
 
         ];
@@ -59,14 +56,11 @@
           ./aliases.nix
           ./programs.nix
           # Host Specific configs
-          ./ntrn1703/ntrn1703.nix
-          ./ntrn1703/user.nix
+          ./ntrn1703/aargunov.nix
+          ./ntrn1703/custom.nix
           # self-manage fleek
           ({
            nixpkgs.overlays = [];
-           home.packages = [
-            fleek.packages.x86_64-linux.default
-          ];
           })
 
         ];
