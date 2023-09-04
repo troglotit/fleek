@@ -45,7 +45,7 @@ programs:
     - exa
     - bat
     - direnv
-shell: zsh
+shell: fish
 systems:
     - arch: x86_64
       home: ""
