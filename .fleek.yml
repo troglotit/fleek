@@ -45,6 +45,7 @@ programs:
     - exa
     - bat
     - direnv
+    - fish
 shell: fish
 systems:
     - arch: x86_64
