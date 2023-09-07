@@ -42,11 +42,10 @@ paths:
 programs:
     - dircolors
     - fzf
-    - exa
+    - eza
     - bat
     - direnv
-    - fish
-shell: fish
+shell: zsh
 systems:
     - arch: x86_64
       home: ""
