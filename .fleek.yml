@@ -42,7 +42,7 @@ paths:
 programs:
     - dircolors
     - fzf
-    - eza
+    - exa
     - bat
     - direnv
 shell: zsh
