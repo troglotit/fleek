@@ -2,8 +2,8 @@ aliases:
   fleeks: cd ~/.local/share/fleek
 allow_broken: false
 bling: low
-blocklist:
-  - exa
+blocklist: []
+  # - exa
 byo_git: false
 ejected: false
 flakedir: .local/share/fleek
