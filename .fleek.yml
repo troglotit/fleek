@@ -46,6 +46,7 @@ programs:
   - eza
   - bat
   - direnv
+  - rustup
 shell: zsh
 systems:
   - arch: x86_64
