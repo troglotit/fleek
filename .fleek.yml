@@ -32,7 +32,7 @@ packages:
   - emacs
   - gdu
   - bottom
-  - tokei
+  # - tokei
   - exif
   - gnumake
   - rustup
