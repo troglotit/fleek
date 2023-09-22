@@ -1,9 +1,9 @@
 aliases:
   fleeks: cd ~/.local/share/fleek
 allow_broken: false
-bling: low
-blocklist: []
-  # - exa
+bling: high
+blocklist:
+  - vscode
 byo_git: false
 ejected: false
 flakedir: .local/share/fleek
@@ -43,10 +43,6 @@ paths:
   - $HOME/.config/emacs/bin
 programs:
   - dircolors
-  - fzf
-  - eza
-  - bat
-  - direnv
 shell: zsh
 systems:
   - arch: x86_64
