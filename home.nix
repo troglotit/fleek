@@ -26,7 +26,6 @@
     pkgs.unzip
     pkgs.ffmpeg
     pkgs.neofetch
-    pkgs.cargo
     pkgs.neovim
     pkgs.lazygit
     pkgs.jq

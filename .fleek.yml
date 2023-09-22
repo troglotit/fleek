@@ -22,7 +22,7 @@ packages:
   - unzip
   - ffmpeg
   - neofetch
-  - cargo
+  # - cargo
   - neovim
   - lazygit
   - jq
