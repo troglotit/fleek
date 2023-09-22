@@ -35,6 +35,7 @@ packages:
   - tokei
   - exif
   - gnumake
+  - rustup
 paths:
   - $HOME/bin
   - $HOME/.local/bin
@@ -46,7 +47,6 @@ programs:
   - eza
   - bat
   - direnv
-  - rustup
 shell: zsh
 systems:
   - arch: x86_64
