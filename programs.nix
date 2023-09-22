@@ -10,7 +10,7 @@
   # User specified programs 
     programs.dircolors.enable = true; 
     programs.fzf.enable = true; 
-    programs.exa.enable = true; 
+    programs.eza.enable = true; 
     programs.bat.enable = true; 
     programs.direnv.enable = true;
 

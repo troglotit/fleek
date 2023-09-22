@@ -36,9 +36,9 @@
     pkgs.emacs
     pkgs.gdu
     pkgs.bottom
-    pkgs.tokei
     pkgs.exif
     pkgs.gnumake
+    pkgs.rustup
     # Fleek Bling
     pkgs.git
     pkgs.htop
