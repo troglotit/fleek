@@ -39,6 +39,7 @@
     pkgs.gnumake
     pkgs.rustup
     pkgs.elixir
+    pkgs.inotify-tools
     # Fleek Bling
     pkgs.git
     pkgs.htop
