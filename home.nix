@@ -38,6 +38,7 @@
     pkgs.exif
     pkgs.gnumake
     pkgs.rustup
+    pkgs.elixir
     # Fleek Bling
     pkgs.git
     pkgs.htop

@@ -35,6 +35,7 @@ packages:
     - exif
     - gnumake
     - rustup
+    - elixir
 paths:
     - $HOME/bin
     - $HOME/.local/bin
@@ -42,7 +43,6 @@ paths:
     - $HOME/.config/emacs/bin
 programs:
     - dircolors
-    # - devenv
 shell: zsh
 systems:
     - arch: x86_64
