@@ -37,6 +37,7 @@ packages:
     - rustup
     - elixir
     - inotify-tools
+    - nushell
 paths:
     - $HOME/bin
     - $HOME/.local/bin

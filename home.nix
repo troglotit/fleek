@@ -40,6 +40,7 @@
     pkgs.rustup
     pkgs.elixir
     pkgs.inotify-tools
+    pkgs.nushell
     # Fleek Bling
     pkgs.git
     pkgs.htop
