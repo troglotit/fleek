@@ -39,6 +39,7 @@ packages:
     - inotify-tools
     - nushell
     - volta
+    - deno
 paths:
     - $HOME/bin
     - $HOME/.local/bin

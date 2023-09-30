@@ -42,6 +42,7 @@
     pkgs.inotify-tools
     pkgs.nushell
     pkgs.volta
+    pkgs.deno
     # Fleek Bling
     pkgs.git
     pkgs.htop
