@@ -4,6 +4,7 @@
     "$HOME/bin"
     "$HOME/.local/bin"
     "$HOME/.volta/bin"
+    "$HOME/.bun/bin"
     "$HOME/.config/emacs/bin"
  ];
 }
