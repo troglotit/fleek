@@ -41,6 +41,7 @@
     pkgs.elixir
     pkgs.inotify-tools
     pkgs.nushell
+    pkgs.volta
     # Fleek Bling
     pkgs.git
     pkgs.htop
