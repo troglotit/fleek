@@ -43,6 +43,7 @@
     pkgs.nushell
     pkgs.volta
     pkgs.deno
+    pkgs.bun
     # Fleek Bling
     pkgs.git
     pkgs.htop
