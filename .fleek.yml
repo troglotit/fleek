@@ -41,6 +41,7 @@ packages:
     - volta
     - deno
     - bun
+    - typst
 paths:
     - $HOME/bin
     - $HOME/.local/bin

@@ -44,6 +44,7 @@
     pkgs.volta
     pkgs.deno
     pkgs.bun
+    pkgs.typst
     # Fleek Bling
     pkgs.git
     pkgs.htop
