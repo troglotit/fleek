@@ -42,6 +42,7 @@ packages:
     - deno
     - bun
     - typst
+    - opam
 paths:
     - $HOME/bin
     - $HOME/.local/bin
