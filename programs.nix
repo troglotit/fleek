@@ -14,6 +14,7 @@
 
   # User specified programs 
     programs.dircolors.enable = true; 
-    programs.nushell.enable = true;
+    programs.nushell.enable = true; 
+    programs.opam.enable = true;
 
 }

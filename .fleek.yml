@@ -42,7 +42,6 @@ packages:
     - deno
     - bun
     - typst
-    - opam
 paths:
     - $HOME/bin
     - $HOME/.local/bin
@@ -52,6 +51,7 @@ paths:
 programs:
     - dircolors
     - nushell
+    - opam
 shell: zsh
 systems:
     - arch: x86_64

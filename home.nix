@@ -45,7 +45,6 @@
     pkgs.deno
     pkgs.bun
     pkgs.typst
-    pkgs.opam
     # Fleek Bling
     pkgs.git
     pkgs.htop
