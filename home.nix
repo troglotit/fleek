@@ -37,6 +37,7 @@
     pkgs.bottom
     pkgs.exif
     pkgs.gnumake
+    pkgs.rustup
     pkgs.elixir
     pkgs.inotify-tools
     pkgs.nushell

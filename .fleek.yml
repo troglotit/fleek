@@ -34,6 +34,7 @@ packages:
     - bottom
     - exif
     - gnumake
+    - rustup
     - elixir
     - inotify-tools
     - nushell
@@ -52,7 +53,6 @@ programs:
     - dircolors
     - nushell
     - opam
-    - rustup
 shell: zsh
 systems:
     - arch: x86_64
