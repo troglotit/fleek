@@ -43,6 +43,7 @@ packages:
     - bun
     - typst
     - bzip2
+    - postgresql_15_jit
 paths:
     - $HOME/bin
     - $HOME/.local/bin

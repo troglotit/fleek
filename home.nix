@@ -46,6 +46,7 @@
     pkgs.bun
     pkgs.typst
     pkgs.bzip2
+    pkgs.postgresql_15_jit
     # Fleek Bling
     pkgs.git
     pkgs.htop
