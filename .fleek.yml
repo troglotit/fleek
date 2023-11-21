@@ -44,6 +44,7 @@ packages:
     - typst
     - bzip2
     - postgresql_15_jit
+    - xsv
 paths:
     - $HOME/bin
     - $HOME/.local/bin
