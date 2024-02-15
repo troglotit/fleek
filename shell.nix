@@ -12,4 +12,6 @@
 };
     # fish
   programs.fish.enable = true;
+  # As per https://nixos.wiki/wiki/Fish setting fish as login shell may cause some issues
+  users.defaultUserShell = pkgs.fish;
 }
