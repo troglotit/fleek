@@ -3,5 +3,5 @@
   # programs.exa.enableAliases = true;
   programs.eza.enableAliases = true;
   programs.direnv.nix-direnv.enable = true;
-  users.users.aargunov.shell = pkgs.fish;
+  users.aargunov.shell = pkgs.fish;
 }
