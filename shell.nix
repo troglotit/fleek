@@ -11,6 +11,5 @@
   theme = "TwoDark";
 };
     # fish
-  programs.fish.enableCompletion = true;
   programs.fish.enable = true;
 }
