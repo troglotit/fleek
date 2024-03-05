@@ -20,7 +20,6 @@
   # programs are installed and configuration applied to dotfiles
   home.packages = [
     # user selected packages
-    pkgs.composer
     pkgs.helix
     pkgs.stack
     pkgs.gcc
