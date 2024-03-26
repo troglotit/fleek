@@ -47,6 +47,7 @@
     pkgs.bzip2
     pkgs.postgresql_15_jit
     pkgs.xsv
+    pkgs.fish
     # Fleek Bling
     pkgs.git
     pkgs.htop

@@ -35,7 +35,6 @@ packages:
     - exif
     - gnumake
     - rustup
-    # - elixir
     - inotify-tools
     - nushell
     - volta
@@ -45,6 +44,7 @@ packages:
     - bzip2
     - postgresql_15_jit
     - xsv
+    - fish
 paths:
     - $HOME/bin
     - $HOME/.local/bin
@@ -63,22 +63,22 @@ systems:
       hostname: DESKTOP-C9O7JV2
       os: linux
       user:
-          email: sajkoooo@gmail.com
-          name: alex argunov
-          ssh_private_key_file: ""
-          ssh_public_key_file: ""
-          username: troglotit
+        email: sajkoooo@gmail.com
+        name: alex argunov
+        ssh_private_key_file: ""
+        ssh_public_key_file: ""
+        username: troglotit
       username: troglotit
     - arch: x86_64
       home: ""
       hostname: ntrn1703
       os: linux
       user:
-          email: alexander.argunov@tern.ru
-          name: aargunov
-          ssh_private_key_file: ~/.ssh/id_ed25519
-          ssh_public_key_file: ~/.ssh/id_ed25519.pub
-          username: aargunov
+        email: alexander.argunov@tern.ru
+        name: aargunov
+        ssh_private_key_file: ~/.ssh/id_ed25519
+        ssh_public_key_file: ~/.ssh/id_ed25519.pub
+        username: aargunov
       username: aargunov
 track: ""
 unfree: true
