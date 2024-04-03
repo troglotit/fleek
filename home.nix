@@ -48,6 +48,7 @@
     pkgs.postgresql_15_jit
     pkgs.xsv
     pkgs.fish
+    pkgs.poetry
     # Fleek Bling
     pkgs.git
     pkgs.htop

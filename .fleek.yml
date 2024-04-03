@@ -45,6 +45,7 @@ packages:
     - postgresql_15_jit
     - xsv
     - fish
+    - poetry
 paths:
     - $HOME/bin
     - $HOME/.local/bin
