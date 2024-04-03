@@ -46,6 +46,7 @@ packages:
     - xsv
     - fish
     - poetry
+    - rye
 paths:
     - $HOME/bin
     - $HOME/.local/bin

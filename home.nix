@@ -49,6 +49,7 @@
     pkgs.xsv
     pkgs.fish
     pkgs.poetry
+    pkgs.rye
     # Fleek Bling
     pkgs.git
     pkgs.htop
