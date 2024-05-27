@@ -19,4 +19,8 @@ $ apply-$(hostname)
 ```
 
 Your actual aliases are listed below:
+    apply-DESKTOP-C9O7JV2 = "nix run --impure home-manager/master -- -b bak switch --flake .#troglotit@DESKTOP-C9O7JV2";
+
+    apply-ntrn1703 = "nix run --impure home-manager/master -- -b bak switch --flake .#aargunov@ntrn1703";
+
     fleeks = "cd ~/.local/share/fleek";
